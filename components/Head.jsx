@@ -15,12 +15,12 @@ const Head = () => {
         name="description"
       />
       <meta property="og:type" content="website" />
-      <meta property="og:site_name" content="Alberto Rivera - Website" />
+      <meta property="og:site_name" content="Elias Bello - Website" />
       <meta
         property="og:description"
         content="Soy Senior Full Stack Developer y apasionado de las tecnologías basadas en Javascript."
       />
-      <meta property="og:title" content="Alberto Rivera - Site" />
+      <meta property="og:title" content="Elias Bello - Site" />
       <meta property="og:image" content={image} />
     </NextHead>
   );
